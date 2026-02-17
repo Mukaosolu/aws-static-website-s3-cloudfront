@@ -19,4 +19,17 @@ Read more via: https://docs.aws.amazon.com/AmazonS3/latest/userguide/add-bucket-
 11. Created a folder in your capstone project 1, name it, "images,". Upload your screenshots and push to your git repo. 
 12. Perform clean up operations.
 
+## Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.png)
+
+## S3 Website Deployment
+
+![S3 Website](images/s3-website.png)
+
+## CloudFront Distribution
+
+![CloudFront](images/cloudfront-deployed.png)
+
+
 Good Luck!
