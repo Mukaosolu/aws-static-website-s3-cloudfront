@@ -25,7 +25,7 @@ Read more via: https://docs.aws.amazon.com/AmazonS3/latest/userguide/add-bucket-
 
 ## S3 Website Deployment
 
-![S3 Website](images/s3-website.png)
+![S3 Website](images/published-website-s3.png)
 
 ## CloudFront Distribution
 
